@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+
+*.sql
+*.xml
+*.pyc
+*.db
+*.pem
+*.jpg
+*.ini
+*.log
+*.mwb
+*.bak
+
